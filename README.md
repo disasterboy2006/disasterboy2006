@@ -1,36 +1,40 @@
 ```markdown
-# 👤 Welcome to DisasterBoy2006's OSINT Hub! 🔍
+# Welcome to the OSINT Lab of disasterboy2006 🔍
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Cyber+Investigator)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=disasterboy2006&color=blue)
 
-## About Me 🌐
-Hello! I'm **DisasterBoy2006**, an OSINT (Open Source Intelligence) Analyst passionate about uncovering insights and patterns from publicly available data. With a keen eye for detail and analytical mindset, I delve into various sources to gather intelligence that informs decision-making processes. I believe that knowledge is power, and I'm here to share that power with others!
+## About Me 🕵️
 
-## Tech Stack 🛠️
-Here are some of the tools and technologies I frequently use in my OSINT investigations:
+Hello! I'm **disasterboy2006**, a passionate Cyber Investigator specializing in Open Source Intelligence (OSINT). With a knack for uncovering digital footprints and analyzing data, I thrive on solving complex puzzles in the cybersecurity landscape. My mission is to leverage technology to enhance security and contribute to a safer online environment. 
 
-- **Data Collection**: Python, BeautifulSoup, Scrapy
-- **Data Analysis**: Excel, Pandas, SQL
-- **Visualization**: Tableau, Matplotlib, Seaborn
-- **Networking**: Wireshark, Nmap
-- **Security**: Metasploit, Burp Suite
+In my spare time, I enjoy exploring the latest trends in cybersecurity, participating in CTFs (Capture The Flags), and sharing knowledge with fellow enthusiasts. Let's connect and collaborate!
+
+## Tech Stack 📡
+
+- **Languages**: Python, JavaScript, SQL
+- **Tools**: 
+  - Maltego
+  - TheHarvester
+  - Shodan
+  - Google Dorking
+  - OSINT Framework
+- **Databases**: MongoDB, MySQL
+- **Platforms**: Linux, Windows, MacOS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=disasterboy2006&layout=compact&theme=radical)
 
-## Projects 📊
-I am actively working on several projects that focus on different aspects of OSINT analysis. Stay tuned for updates!
+## Contact 🔐
 
-## Contact 📡
-Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
+Feel free to reach out for collaboration, questions, or just a friendly chat!
 
-- 📧 Email: disasterboy2006@example.com
-- 🌐 LinkedIn: [linkedin.com/in/disasterboy2006](https://linkedin.com/in/disasterboy2006)
-- 🐦 Twitter: [@disasterboy2006](https://twitter.com/disasterboy2006)
+- **Email**: [disasterboy2006@example.com](mailto:disasterboy2006@example.com)
+- **Twitter**: [@disasterboy2006](https://twitter.com/disasterboy2006)
+- **LinkedIn**: [disasterboy2006](https://linkedin.com/in/disasterboy2006)
 
-## Achievements 🏆
-![Trophies](https://github-profile-trophy.vercel.app/?username=disasterboy2006&theme=onedark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=disasterboy2006&theme=dark)
 
-Thank you for visiting my GitHub profile! Let's explore the world of OSINT together! 🕵️‍♂️
+Thank you for stopping by! 🌐
+
 ```
